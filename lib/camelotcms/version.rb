@@ -1,3 +1,3 @@
-module Camelot
+module Camelotcms
   VERSION = '0.0.1'
 end
